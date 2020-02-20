@@ -48,6 +48,8 @@ You have to trust in everyone else in your team in order for Agile™ to work.
 
 ## What kind of things what would you do in an Agile™ company?
 
+### Company Name:  DO STUFF™
+
 ### Dos
 * No titles
 * Pay is based on tasks and work completed (Holocracy)
@@ -57,6 +59,9 @@ You have to trust in everyone else in your team in order for Agile™ to work.
 * Beers Friday
 * Have time for reflection
 * Modest deadlines
+* Be transparent
+* Open concept
+* Have trust
 ### Do nots
 * Don't assume
 * No overtime
