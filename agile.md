@@ -20,5 +20,24 @@ Have a meaningful approach, not a mechanical one.
 
 Always use this approach for all concepts. What kind of concepts are operating under this thing?
 
+# AGILE
+Agile™ has become very used as an idea. An entire universe and economy has been built around it. The [Agile manifesto can be found here.](https://agilemanifesto.org/)
+
+Here are the twelve princples of Agile
+* The highest priority is to stustain a continuous flow of software delivery.
+* Change and randomness is not a hinderance, but a benefit.
+* Frequent delivery time in small chunks is ideal.
+* All parties within the organization must work synergistically in a wholeistic fashion.
+* Allow freedom for individuals and teams to self organize. 
+* Face to face is the more natural and effective communication approach.
+* Functional software is the best yard stick.
+* A constant flow of software should be able to be balanced and maintained.
+* Continuous attention to technical excellence
+and good design enhances agility.
+* Minimalism is key.
+* Self organization is the superior form of organization.
+* Frequent reflection and adjustment and adaptation.
+
+**A concept is always a good idea until its not.** This way you disable prior bias towards ideas that might be good until there is disconfirming evidence.
 
 date: 20-02-2020
